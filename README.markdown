@@ -20,15 +20,15 @@ To compile and run the program simply download the files into one directory and
 in the command prompt type in: 
 
 
-+	make
+	make
 
 
 To remove all new files created in order to compile the program type in: 
 
-+	make clean
+	make clean
 
 
 To test if program is working as it should type in: 
 
 
-+	make run         
+	make run         
